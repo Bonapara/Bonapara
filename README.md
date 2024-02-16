@@ -2,4 +2,4 @@
 
 I'm Thomas, co-founder of Twenty, an open-source CRM: https://github.com/twentyhq/twenty
 
-<img width="877" alt="Cover-light" src="https://github.com/Bonapara/bonapara/assets/19412894/02f9086d-4133-4444-bbd1-154f93f91e5d">
+![preview-light](https://github.com/Bonapara/bonapara/assets/19412894/65f975d2-c133-4a5c-b256-c787262351fc)
